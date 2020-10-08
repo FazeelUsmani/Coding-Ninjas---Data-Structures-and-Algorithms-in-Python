@@ -33,7 +33,7 @@ Topics discussed are:
 27) Backtracking
 28) [Advanced Data Structures and Algorithms](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/28%20Advanced%20DS%20Algo%20Topics)
 
-
+For contributing, please read [Your guide for open-source contributions](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/blob/master/Contributing.md)
 
 __Download Jupyter notebook from here:__ https://jupyter.org/  
 __Installing Jupyter notebook:__ https://jupyter.org/install  
