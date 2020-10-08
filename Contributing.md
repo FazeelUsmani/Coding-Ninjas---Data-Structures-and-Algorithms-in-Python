@@ -3,6 +3,8 @@
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
 
+As this course is taught in Python so all the PRs submitted will be in accepted in **Python** language only
+
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ## Pull Request Process
