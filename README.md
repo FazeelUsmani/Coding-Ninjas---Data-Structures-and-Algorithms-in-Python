@@ -24,7 +24,7 @@ Topics discussed are:
 18) [Dictionaries/Maps](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/18%20Dictionaries)
 19) [Graphs - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/19%20Graphs%20-%201)
 20) [Graphs - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/20%20Graphs%20-%202)
-21) Priority Queues - 1
+21) [Priority Queues - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/21%20Priority%20Queues%201)
 22) Huffman Coding
 23) Priority Queues - 2
 24) [Dynamic Programming - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/24%20DP-1)
