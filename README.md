@@ -33,7 +33,7 @@ Topics discussed are:
 27) [Backtracking](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/27%20Backtracking)
 28) [Advanced Data Structures and Algorithms](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/28%20Advanced%20DS%20Algo%20Topics)
 
-For contributing, please read [Guide to contribution](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/blob/master/Contributing.md). Now, merging hacktober PRs. 
+For contributing, please read [Contributing.md](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/blob/master/Contributing.md). Now, merging hacktober PRs. 
 
 __Download Jupyter notebook from here:__ https://jupyter.org/  
 __Installing Jupyter notebook:__ https://jupyter.org/install  
