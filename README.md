@@ -29,8 +29,8 @@ Topics discussed are:
 23) [Priority Queues - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/23%20Priority%20Queues%202)
 24) [Dynamic Programming - 1](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/24%20DP-1)
 25) [Recursion - 3](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/25%20Recursion-3)
-26) Dynamic Programming - 2 
-27) Backtracking
+26) [Dynamic Programming - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/26%20DP-2) 
+27) [Backtracking](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/27%20Backtracking)
 28) [Advanced Data Structures and Algorithms](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/28%20Advanced%20DS%20Algo%20Topics)
 
 For contributing, please read [Guide to contribution](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/blob/master/Contributing.md). Now, merging hacktober PRs. 
