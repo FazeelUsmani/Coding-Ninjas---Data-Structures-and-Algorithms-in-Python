@@ -34,7 +34,7 @@ Topics discussed are:
 28) [Advanced Data Structures and Algorithms](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/28%20Advanced%20DS%20Algo%20Topics)
 
 
-To visualize data structures use this [website](https://visualgo.net/en)
+To visualize data structures use this [VisuAlgo](https://visualgo.net/en)
 
 
 For contributing, please read [Contributing.md](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/blob/master/Contributing.md). Now, merging hacktober PRs. 
