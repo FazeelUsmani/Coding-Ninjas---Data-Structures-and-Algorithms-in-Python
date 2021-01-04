@@ -32,6 +32,7 @@ Topics discussed are:
 26) [Dynamic Programming - 2](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/26%20DP-2) 
 27) [Backtracking](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/27%20Backtracking)
 28) [Advanced Data Structures and Algorithms](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/28%20Advanced%20DS%20Algo%20Topics)
+29) [Recursion Assignment](https://github.com/FazeelUsmani/Coding-Ninjas---Data-Structures-and-Algorithms-in-Python/tree/master/30%20Recursion%20Assignment)
 
 
 To visualize data structures use this [VisuAlgo](https://visualgo.net/en)
